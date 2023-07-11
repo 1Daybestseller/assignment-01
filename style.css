@@ -52,6 +52,9 @@
     padding: 5px;
     
 }
+#noborder{
+    border-right: none;
+}
 /* header  */
 .flower-container{
     display: flex;
