@@ -9,13 +9,14 @@
     background: rgba(229, 84, 115, 0.10);
     padding: 20px 120px;
     justify-content: space-around;
-   
+    height: 380px;
+   margin-top:20px ;
 }
 .head-tittle{
     width: 650px;
     color: #272727;
     font-family: Lato;
-    font-size: 80px;
+    font-size: 75px;
     font-style: normal;
     font-weight: 800;
     
@@ -24,7 +25,7 @@
     width: 634px;
     color: rgba(39, 39, 39, 0.60);
     font-family: Lato;
-    font-size: 18px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
@@ -39,15 +40,19 @@
     background: #E55473;
     gap: 10px;
     border: none;
-    padding: 10px;
+    padding: 5px;
     margin-top: 10px;
 }
 .head-img{
     width: 300px;
     height: 400px;
+    padding-bottom: 0px;
 }
 
 /* Our Featured Flowers */
+.featured-part{
+    margin-top: 100px;
+}
 
 .feature-tittle{
     color: #272727;
@@ -152,6 +157,9 @@ span{
 }
 
 /* insta section  */
+.insta-part{
+    margin-top: 100px;
+}
 .insta-img{
     width: 220px;
     margin-right: 10px;
