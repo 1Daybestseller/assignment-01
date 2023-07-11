@@ -132,5 +132,21 @@ padding: 50px;
 }
 .hudai-text{
 
-
+}
+/* hot deal  */
+#hot-deal-tittle{
+    color: #272727;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+#intro-text{
+    align-items: center;
+    padding: 100px;
+    text-align: center;
+    padding-left: 50px;
+}
+span{
+    color: #E55473;
 }
