@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.flower-container{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 20px 120px;
+    justify-content: space-around;
+   
+}
+.head-tittle{
+    width: 650px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    
+}
+.head-text{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.btn-primary{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    border-radius: 5px;
+    background: #E55473;
+    gap: 10px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+.head-img{
+    width: 300px;
+    height: 400px;
+}
+
+/* Our Featured Flowers */
